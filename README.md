@@ -1,6 +1,6 @@
 # Matrix Multiplication Using Flask Framework
 
-## Aim
+## AiM
 
 To create a matrix multiplication web application using the **Flask framework** in Python.
 
